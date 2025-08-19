@@ -80,4 +80,5 @@ By providing executives with a **clear, real-time view of sales KPIs**, this das
 
 ---
 
-## File Structure
+## Preview
+[Sales Overview]<img width="2347" height="1104" alt="image" src="https://github.com/user-attachments/assets/bb694b26-a640-4fa1-a240-acd84ad85d0f" />
