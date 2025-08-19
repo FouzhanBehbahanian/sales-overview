@@ -82,7 +82,6 @@ By providing executives with a **clear, real-time view of sales KPIs**, this das
 ## File strucure
 /sales-overview
    ├── sales_overview.png    # Dashboard screenshot
-   ├── sales_overview.pbix   # Power BI file
    └── README.md             # Project documentation
    
 ## Preview
