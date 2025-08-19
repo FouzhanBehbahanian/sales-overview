@@ -83,8 +83,6 @@ By providing executives with a **clear, real-time view of sales KPIs**, this das
 /sales-overview
    ├── sales_overview.png    # Dashboard screenshot
    ├── sales_overview.pbix   # Power BI file
-   ├── dataset.csv           # Sample dataset 
-   ├── queries.M-query       # SQL queries used in data prep
    └── README.md             # Project documentation
    
 ## Preview
