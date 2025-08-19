@@ -79,6 +79,7 @@ An e-commerce retailer facing stagnating sales could use this dashboard to:
 By providing executives with a **clear, real-time view of sales KPIs**, this dashboard supports both **strategic planning** and **operational decision-making**.
 
 ---
+## File strucure
 /sales-overview
    ├── sales_overview.png    # Dashboard screenshot
    ├── sales_overview.pbix   # Power BI file
